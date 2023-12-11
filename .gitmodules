@@ -1,0 +1,15 @@
+[submodule "bill-core"]
+	path = bill-core
+	url = https://github.com/KStasi/bill-core
+[submodule "bill-ipfs-proxy"]
+	path = bill-ipfs-proxy
+	url = https://github.com/KStasi/bill-ipfs-proxy
+[submodule "bills-indexer"]
+	path = bills-indexer
+	url = https://github.com/Digberi/bills-indexer
+[submodule "bills-plugin"]
+	path = bills-plugin
+	url = https://github.com/stepandra/bills-plugin
+[submodule "bill-bundler"]
+	path = bill-bundler
+	url = https://github.com/KStasi/bill-bundler
